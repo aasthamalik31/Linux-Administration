@@ -18,6 +18,8 @@
 <p>1. Open the terminal and type:</p>
 <i>sudo useradd operator1</i>
 <br>
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/c2c11d98-6aca-49b4-b5f9-670544c46dd1" />
+
 
 <p>2. To check whether or not the user is added:</p>
 <i>sudo cat /etc/passwd</i>
