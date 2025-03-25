@@ -26,6 +26,8 @@
 <br>
 
 <p>At the end of the file, you will be able to see:</p>
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/207c6d83-1f29-437d-bf20-ae1c37204da6" />
+
 
 <p>3. To add the password:</p>
 <i>sudo passwd operator1</i>
