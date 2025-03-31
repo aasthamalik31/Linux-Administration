@@ -35,18 +35,33 @@
 
 <p>4. Follow the same steps for operator2 and operator3 as well:</p>
 
+![Screenshot 2025-03-25 103830](https://github.com/user-attachments/assets/434d496d-6ca7-44aa-8912-98676b8a7830)
+
+
 <h5>Lab 2:</h5>
 <p>1. To add comments to a particular user, type:</p>
 <i>sudo usermod -c "Operator1's comment" operator1</i>
 <br>
 
+<img width="444" alt="image" src="https://github.com/user-attachments/assets/bc30100a-c757-4e6c-8c14-e45584e364cf" />
+
+
 <p>2. To delete the user:</p>
 <i>sudo userdel -r operator</i>
 <br>
+
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/40fa7bfb-57e0-414a-b03d-6f378be47215" />
+
 
 <h5>Creating Practice Files and Directories:</h5>
 <p>Use the <i>touch</i> command to create sets of empty practice files:</p>
 <i>touch song{1..6}.mp3 snap{1..6}.jpg film{1..6}.avi</i>
 
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/35bf8142-43ea-46db-9763-659ded85eb78" />
+
+
 <p>Use a single command to create all three subdirectories:</p>
-<i>mkdir friends family work</i>
+<i>mkdir monkey banana apple</i>
+
+<img width="273" alt="image" src="https://github.com/user-attachments/assets/a783231e-fd59-4d38-9ca3-13dfece94d5c" />
+
