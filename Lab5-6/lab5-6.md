@@ -89,9 +89,8 @@
        vim $lab_file
      </i>
 
-    ![image](https://github.com/user-attachments/assets/8916eda9-1794-4490-97b9-3ed96841e1eb)
 
-
+     ![image](https://github.com/user-attachments/assets/8ebc4c22-6bf9-4f92-88f5-31fc5bda7c88)
      
   2. Enter visual mode by pressing:
      <i>
